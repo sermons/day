@@ -92,14 +92,18 @@ from heaven with a cry of command,  <br>
 with the voice of an archangel,  <br>
 and with the sound of the trumpet of God.
 
+[1 Thesssalonians 4:16-17 (ESV) (p.1/2)](# "ref")
+
+---
 And the dead in Christ will rise first.   <br>
 [17](# "ref")
 Then we who are alive, who are left,  <br>
 will be caught up together with them  <br>
-in the clouds to meet the Lord in the air,  <br>
+in the clouds to meet the Lord in the air,
+
 and so we will always be with the Lord.
 
-[1 Thesssalonians 4:16-17 (ESV)](# "ref")
+[1 Thesssalonians 4:16-17 (ESV) (p.2/2)](# "ref")
 
 >>>
 + seems **unbelievable** bc far out of daily exp
@@ -125,7 +129,8 @@ like a thief in the night.
   + 2 Pet 3:
 
 ---
-They will say, “Where is the promise of his coming? <br>
+They will say, <br>
+“Where is the promise of his coming? <br>
 For ever since the fathers fell asleep, <br>
 all things are continuing as they were <br>
 from the beginning of creation.”
@@ -305,31 +310,47 @@ and for a helmet the hope of salvation:
 >>>
 + "drunk": release of inhib feels **freeing**
   + but lets worst of **sinful** nature out
-  + uncontrolled, self-indulgent
-+ "sober": delib, not swept **passion**,
-  + **focused**, not distracted:
+  + **uncontrolled**, self-indulgent
+  + unfocused, **distracted**
 + e.g writing **dissertation**: clean house
   + "productive": busy
 + Fill day w/"necessary" **chores**
-  + but neglect what **God** prioritises:
+  + but neglect what **God** prioritises
++ Remember the **wise** servant in Mt24:
+
+---
+Who then is the faithful and wise servant, <br>
+whom his master has set over his household, <br>
+to give them their food at the proper time? <br>
+
+[46](# "ref")
+Blessed is that servant whom <br>
+his master will find so doing when he comes.
+
+[Matthew 24:45-46 (ESV)](# "ref")
+
+>>>
++ **Wicked** svt: believes master to be delayed
+  + **beats** fellow servants
+  + **indulges** w/drunks
++ Faithful svt: **stand firm** doing task
++ **FHL** theme in 1Thes:
 + **Faith** in God's promises, put in **action**
   + serving Him is **worth** it
 + Train up **love** for others as Chr loves us
 + Strength in **hope** of God's salv
   + duty/joy to **share** hope w/world
-+ **FHL** theme in 1Thes
 + Armor **protects** from Satan's schemes
   + **equips** to engage in God's work
 + God who **calls** us forward:
-+ watchful servant
 
 ---
 For God has not destined us for wrath,  <br>
 but to obtain salvation through  <br>
-our Lord Jesus Christ, <br>
+our Lord Jesus Christ, 
 [10](# "ref")
-who died for us so that <br>
-whether we are awake or asleep <br><br>
+who died for us <br>
+so that whether we are awake or asleep <br>
 we might live with him. 
 
 [1 Thesssalonians 5:9-10 (ESV)](# "ref")
@@ -343,7 +364,7 @@ we might live with him.
 + As long as we **live** on earth,
   + let it be in **wakefulness**
   + **focused** on the work God calls us to
-  + so keeping **in step** w/Him
+  + keeping **in step** w/Him
 
 ---
 <!-- .slide: data-background="white" -->
@@ -352,7 +373,21 @@ we might live with him.
 
 >>>
 + **Complacent** / unaware
-  + worse: **self-indulgent**, uncontrolled
++ worse: **self-indulgent**, uncontrolled
++ Is God reminding me of a **responsib**
+  + as faithful + wise svt over house?
++ Have I neglected my **armour** of FHL
+  + to equip me to **stand** firm?
 
 ---
 <!-- .slide: <%= bg("unsplash-bUhzlj3gGso-mtns_clouds.jpg") %> class="empty" -->
+
+>>>
++ Triumphed over sin + **death**
+  + so we have **living hope** in resurr
++ Remind us: **reality** of coming judgment
+  + **identity** as child. **light** + day
+  + **resp.** as faithful stewards
++ Gird us w/**FHL**: get back in work kingdom
+  + stand **firm** in faith til return
+
