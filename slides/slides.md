@@ -58,10 +58,18 @@
 3. How We Should **Prepare** [5:6-8]
 
 >>>
-+ 
++ **Reality** of Chr's return:
+  + inescapable, must reckon
++ **Identity** as sons of day
+  + even though might not feel so
++ **Responsibility** to engage in 
+  + Chr's work, 
+  + equipped w/**armor** of God
++ The **teaching** starts back in ch4,
+  + perhaps responding to Q about
+  + believers who have **died**:
 
 ---
-
 But we do not want you to be uninformed, <br>
 brothers, about those who are asleep, <br>
 that you may not grieve <br>
@@ -75,7 +83,6 @@ as others do who have no hope.
 + but waiting in hope for Chr's **return**: v16
 
 ---
-
 For the Lord himself will descend  <br>
 from heaven with a cry of command,  <br>
 with the voice of an archangel,  <br>
