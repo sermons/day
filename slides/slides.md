@@ -1,5 +1,8 @@
+<!-- .slide: <%= bg("unsplash-bUhzlj3gGso-mtns_clouds.jpg") %> class="outline" -->
 # Sons of Day
 ## 1 Thessalonians 5:1-11
+
+[Vietnam. Andreas Kind](https://unsplash.com/photos/bUhzlj3gGso "caption")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -52,10 +55,11 @@
   + 4: **When** is Christ returning
 
 ---
-## (outline)
-1. What Is **Coming** [4:13-5:3]
-2. Who We **Are** in Christ [5:4-5,9]
-3. How We Should **Prepare** [5:6-8]
+<!-- .slide: <%= bg("unsplash-bUhzlj3gGso-mtns_clouds.jpg") %> id="outline" class="outline" -->
+## Sons of Day [1Thes5](# "ref")
+1. What Is **Coming** [[4:13-5:3]](# "ref")
+2. Who We **Are** in Christ [[5:4-5,9]](# "ref")
+3. How We Should **Prepare** [[5:6-8]](# "ref")
 
 >>>
 + **Reality** of Chr's return:
@@ -164,8 +168,14 @@ and they will not escape.
   + practically, still have to **live** my life
 + as **real** as my **flesh** + bone?
 
+
 ---
-(outline)
+<!-- .slide: <%= bg("unsplash-bUhzlj3gGso-mtns_clouds.jpg") %> class="outline" -->
+## Sons of Day [1Thes5](# "ref")
+1. What Is Coming [[4:13-5:3]](# "ref")
+2. **Who We Are in Christ** [[5:4-5,9]](# "ref")
+3. How We Should Prepare [[5:6-8]](# "ref")
+
 >>>
 + To those who **ignore** the reality
   + of Chr's imminent return:
@@ -224,7 +234,12 @@ our Lord Jesus Christ
 + **Who** am I? Where does my **light** come from?
 
 ---
-## (outline)
+<!-- .slide: <%= bg("unsplash-bUhzlj3gGso-mtns_clouds.jpg") %> class="outline" -->
+## Sons of Day [1Thes5](# "ref")
+1. What Is Coming [[4:13-5:3]](# "ref")
+2. Who We Are in Christ [[5:4-5,9]](# "ref")
+3. **How We Should Prepare** [[5:6-8]](# "ref")
+
 >>>
 + **Reality** of Chr's return
 + Remember in Chr we are sons of **light**
@@ -288,15 +303,20 @@ and for a helmet the hope of salvation:
 [1 Thesssalonians 5:7-8 (ESV)](# "ref")
 
 >>>
++ "drunk": release of inhib feels **freeing**
+  + but lets worst of **sinful** nature out
+  + uncontrolled, self-indulgent
 + "sober": delib, not swept **passion**,
   + **focused**, not distracted:
 + e.g writing **dissertation**: clean house
   + "productive": busy
-+ Fill day w/"necessary" chores
-  + but neglect work God tasks us to do:
-+ personal holiness as **faith** in action, 
-  + responsib to debt of **love** to others,
-  + duty/joy to share **hope** of salv w/world
++ Fill day w/"necessary" **chores**
+  + but neglect what **God** prioritises:
++ **Faith** in God's promises, put in **action**
+  + serving Him is **worth** it
++ Train up **love** for others as Chr loves us
++ Strength in **hope** of God's salv
+  + duty/joy to **share** hope w/world
 + **FHL** theme in 1Thes
 + Armor **protects** from Satan's schemes
   + **equips** to engage in God's work
@@ -326,5 +346,12 @@ we might live with him.
 
 ---
 <!-- .slide: data-background="white" -->
-# 
+# Have I become **sleepy** or **drunken**?
 <!-- .element: class="r-fit-text" -->
+
+>>>
++ **Complacent** / unaware
+  + worse: **self-indulgent**, uncontrolled
+
+---
+<!-- .slide: <%= bg("unsplash-bUhzlj3gGso-mtns_clouds.jpg") %> class="empty" -->
