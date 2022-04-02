@@ -321,6 +321,7 @@ and for a helmet the hope of salvation:
 + Armor **protects** from Satan's schemes
   + **equips** to engage in God's work
 + God who **calls** us forward:
++ watchful servant
 
 ---
 For God has not destined us for wrath,  <br>
@@ -346,7 +347,7 @@ we might live with him.
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I become **sleepy** or **drunken**?
+# Have I become <br> **sleepy** or **drunken** <br> waiting for Christ's return?
 <!-- .element: class="r-fit-text" -->
 
 >>>
