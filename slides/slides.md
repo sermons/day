@@ -1,5 +1,6 @@
 <!-- .slide: <%= bg("unsplash-bUhzlj3gGso-mtns_clouds.jpg") %> class="outline" -->
-# Sons of Day <br> 光明之子 ## 1 Thessalonians <br> 帖撒羅尼迦前書 5:1-11
+# Sons of Day <br> 光明之子 
+## 1 Thessalonians <br> 帖撒羅尼迦前書 5:1-11
 [Vietnam. Andreas Kind](https://unsplash.com/photos/bUhzlj3gGso "caption")
 
 ---
@@ -9,20 +10,20 @@
 
 >>>
 + does it really **matter**?
-+ nothing i do will **change** whether it happens
-+ probably won't even happen in my **lifetime**
-+ I'm a Chr so I'm good: wait for my **reward**
+  + nothing I do can **change** it
+  + prob. not in my **lifetime**
++ I'm a Chr, I'm good: wait for **reward**
 + **Reminder**: 
   + what is **coming**
   + who we **are** in Christ
   + what we should be **doing**
-  + in preparation for His return
+  + in prep. for His return
 + Behold the **Lamb**: (prayer)
 ______
 + Risen Saviour: by Your undeserved **grace**
   + we've received your new **life**
 + so we anticipate our own **resurr**
-+ Shake us from our **sleep** + **drunkenness**
++ Shake us from our **sleep** + **drunken**
 + stand firm in **faith**, love, hope
   + until day you return
 
@@ -86,9 +87,10 @@ as others do who have no **hope**.
 [Yuriria, Mexico.  Cristian Newman](https://unsplash.com/photos/Zi8-E3qJ_RM "caption")
 
 >>>
-+ "asleep": not annihil, not **ghosts** / angel
++ "asleep": 
+  + not annihil, not **ghosts** / angel
   + not look from heaven **guiding** us
-+ but waiting in hope for Chr's **return**: v16
++ but wait in hope for Chr's **return**: v16
 
 ---
 <!-- .slide: <%= bg("unsplash-q7z-AUlHPaw-clouds.jpg") %> -->
@@ -127,10 +129,10 @@ and so we will always be **with the Lord**.
 [1 Thessalonians 帖撒羅尼迦前書 4:17b (ESV/CUV)](# "ref")
 
 >>>
-+ seems **unbelievable** bc far out of daily exp
-+ but so was creation, flood, **resurr**
-+ this is **real**, coming, imminent
-  + might be those **asleep**, or still alive
++ Seems **unbeliev**: far out of daily exp
+  + but so was creation, flood, **resurr**
++ This is **real**, coming, imminent
+  + might be **asleep**, or still alive
 + **When** will this happen?
   + **Chronology** (num of years)
   + or **seq** of events
@@ -194,12 +196,12 @@ and they will not **escape**.
 >>>
 + not that having **baby** is **destruc**
   + though a **lot** of blood!
-+ "labor pains": sudden, severe, inescapable:
++ "labor pains": sudden, severe, inescap:
   + can't **wish** the pain away
   + only way out is **through** it
 + Day of Lord is imminent **reality**:
   + it is **going** to happen
-+ w/**trumpet** blast, **all** flesh will see
++ w/**trumpet** blast, **all** will see
   + God's **glory** + authority
 
 ---
@@ -210,7 +212,8 @@ and they will not **escape**.
 >>>
 + **fantasy** / fiction
 + intellectually **know** it, but
-  + practically, still have to **live** my life
+  + practically,
+  + still have to **live** my life
 + as **real** as my **flesh** + bone?
 
 ---
@@ -224,7 +227,7 @@ and they will not **escape**.
 + To those who **ignore** the reality
   + of Chr's imminent return:
   + sudden, inescapable **destruction**
-+ But take **heart**: you are not that way
++ But take **heart**: you are not like that
 + Series of three **contrasts**:
   + not in darkness, but of **light**
   + not sleeping, but **awake**
@@ -251,7 +254,8 @@ children of the **day**.
   + always-on, happy, holy
 + not **gen** light of self, but
   + **inherit** from Father of lights
-+ not that we're **righteous**, but **forgiven**
++ not that we're **righteous**,
+  + but **forgiven**
 + skipping ahead to v9:
 
 ---
@@ -286,7 +290,8 @@ our Lord Jesus Christ
   + wise, kind, bring **light**
 + But I wrestle with **darkness**,
   + temptations, weakness, depression
-+ **Who** am I? Where does my **light** come from?
++ **Who** am I? 
+  + Where does my **light** come from?
 
 ---
 <!-- .slide: <%= bg("unsplash-bUhzlj3gGso-mtns_clouds.jpg") %> class="outline" -->
@@ -412,14 +417,14 @@ his master will find so **doing** when he comes.
 [Matthew 馬太福音 24:46 (ESV/CUV)](# "ref")
 
 >>>
-+ **Wicked** svt: believes master to be delayed
++ **Wicked** servant: thinks master delayed
   + **beats** fellow servants
   + **indulges** w/drunks
 + Faithful svt: **stand firm** doing task
 + **FHL** theme in 1Thes:
-+ **Faith** in God's promises, put in **action**
++ **Faith** in God's prom: put in **action**
   + serving Him is **worth** it
-+ Train up **love** for others as Chr loves us
++ Train up **love**, as Chr loves us
 + Strength in **hope** of God's salv
   + duty/joy to **share** hope w/world
 + Armor **protects** from Satan's schemes
@@ -453,13 +458,13 @@ we might **live** with him.
 
 >>>
 + Chr won **victory** over sin + death
-  + both **life** + death under His dominion
+  + both **life** + death under dominion
 + When we **die**, it's only **sleep**
   + in hope of **resurr**
   + to live w/Him forever
 + As long as we **live** on earth,
   + let it be in **wakefulness**
-  + **focused** on the work God calls us to
+  + **focused** on the work God calls
   + keeping **in step** w/Him
 
 ---
@@ -484,6 +489,8 @@ we might **live** with him.
 + Remind us: **reality** of coming judgment
   + **identity** as child. **light** + day
   + **resp.** as faithful stewards
-+ Gird us w/**FHL**: get back in work kingdom
++ Gird us w/**FHL**: 
+  + get back in work kingdom
   + stand **firm** in faith til return
+_____________________________________________
 
