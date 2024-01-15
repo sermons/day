@@ -5,7 +5,8 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Does Christ's future **return** <br> affect me **now**?
+# Does Christ's future **return** <br> affect me **now**? <br> 
+耶穌基督的再來, <br> 會現在影響我嗎？
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -54,10 +55,10 @@ ______
 
 ---
 <!-- .slide: <%= bg("unsplash-bUhzlj3gGso-mtns_clouds.jpg") %> id="outline" class="outline" -->
-## Sons of Day [1Thes5](# "ref")
-1. What Is **Coming** [[4:13-5:3]](# "ref")
-2. Who We **Are** in Christ [[5:4-5,9]](# "ref")
-3. How We Should **Prepare** [[5:6-8]](# "ref")
+## Sons of Day 光明之子
+1. What Is **Coming** [[4:13-5:3]](# "ref") <br> 什麼會來臨
+2. Who We **Are** in Christ [[5:4-5,9]](# "ref") <br> 我們在基督裡是誰
+3. How We Should **Prepare** [[5:6-8]](# "ref") <br> 我們應該如何準備
 
 >>>
 + **Reality** of Chr's return:
@@ -206,7 +207,7 @@ and they will not **escape**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Does Christ's return <br> feel **real** to me?
+# Does Christ's return <br> feel **real** to me? <br> 我對基督的再來，<br> 覺得是真實的嗎
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -218,10 +219,10 @@ and they will not **escape**.
 
 ---
 <!-- .slide: <%= bg("unsplash-bUhzlj3gGso-mtns_clouds.jpg") %> class="outline" -->
-## Sons of Day [1Thes5](# "ref")
-1. What Is Coming [[4:13-5:3]](# "ref")
-2. **Who We Are in Christ** [[5:4-5,9]](# "ref")
-3. How We Should Prepare [[5:6-8]](# "ref")
+## Sons of Day 光明之子
+1. What Is Coming [[4:13-5:3]](# "ref") <br> 什麼會來臨
+2. **Who We Are in Christ** [[5:4-5,9]](# "ref") <br> 我們在基督裡是誰
+3. How We Should Prepare [[5:6-8]](# "ref") <br> 我們應該如何準備
 
 >>>
 + To those who **ignore** the reality
@@ -282,7 +283,7 @@ our Lord Jesus Christ
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I sometimes <br> feel like an **impostor**?
+# Do I sometimes <br> feel like an **impostor**? <br> 我有時覺得我是 <br> 冒名頂替的嗎?
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -295,10 +296,10 @@ our Lord Jesus Christ
 
 ---
 <!-- .slide: <%= bg("unsplash-bUhzlj3gGso-mtns_clouds.jpg") %> class="outline" -->
-## Sons of Day [1Thes5](# "ref")
-1. What Is Coming [[4:13-5:3]](# "ref")
-2. Who We Are in Christ [[5:4-5,9]](# "ref")
-3. **How We Should Prepare** [[5:6-8]](# "ref")
+## Sons of Day 光明之子
+1. What Is Coming [[4:13-5:3]](# "ref") <br> 什麼會來臨
+2. Who We Are in Christ [[5:4-5,9]](# "ref") <br> 我們在基督裡是誰
+3. **How We Should Prepare** [[5:6-8]](# "ref") <br> 我們應該如何準備
 
 >>>
 + **Reality** of Chr's return
@@ -313,9 +314,9 @@ our Lord Jesus Christ
 
 ---
 <!-- .slide: <%= bg("unsplash-55_MpWjN1Lc-sleep.jpg") %> -->
-We are not of the night or of the darkness: <br>
-So then let us not sleep, as others do,  <br>
-but let us keep awake and be sober. 
+We are not of the **night** or of the darkness: <br>
+So then let us not **sleep**, as others do,  <br>
+but let us keep **awake** and be **sober**. 
 
 我們不是屬黑夜的，也不是屬幽暗的。<br>
 所以我們不要睡覺像別人一樣，<br>
@@ -469,7 +470,7 @@ we might **live** with him.
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I become <br> **sleepy** or **drunken** <br> waiting for Christ's return?
+# Have I become <br> **sleepy** or **drunken** <br> waiting for Christ's return? <br> 在等待基督再來時，<br> 我是否已成為困倦或醉酒?
 <!-- .element: class="r-fit-text" -->
 
 >>>
